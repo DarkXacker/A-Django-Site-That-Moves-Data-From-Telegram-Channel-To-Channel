@@ -45,4 +45,4 @@ Input commands:
 
 * Now we press the send button
 
-##__Programmer__ : Sunnatillo Abdivasiyev
+## __Programmer__ : Sunnatillo Abdivasiyev
